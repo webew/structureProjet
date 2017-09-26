@@ -8,7 +8,8 @@
     <body>
         <div>Main ok</div>
         <?php
-            loadTemplate('view1');
+            loadTemplate('home');
         ?>
+        
     </body>
 </html>
