@@ -1,8 +1,8 @@
 <?php
 
 function load() {
-    if (file_exists(FICHIER_TEMPLATE)) {
-        include FICHIER_TEMPLATE;
+    if (file_exists(MAIN_TEMPLATE)) {
+        include MAIN_TEMPLATE;
     }
 }
 
