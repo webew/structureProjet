@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "myFont";
+  src: url("../fonts/Josefin_Sans/JosefinSans-Light.ttf") format("truetype"); }
+body {
+  font-family: myFont;
+  margin: 0;
+  padding: 0;
+  background-color: whitesmoke;
+  height: 100%;
+  width: 100%;
+  position: fixed; }
+
+/*# sourceMappingURL=newstyle.css.map */
