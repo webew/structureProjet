@@ -2,11 +2,10 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Mon projet</title>
-        <link rel="icon" type='image/png' href="assets/images/yin_yang.ico">
+        <title></title>
         <link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css"/>
         <link href="assets/css/newstyle.css" rel="stylesheet" type="text/css"/>
+        
     </head>
     <body>
         <div>Main ok</div>
