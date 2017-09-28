@@ -1,8 +1,8 @@
 <?php 
 
-require_once 'config/config.php';
-require_once FONCTIONS;
+require_once 'config/config.php';//définitions des constantes
+require_once FONCTIONS;//chargement des fonctions
 
-load();
+load();//chargement de la vue principale
 
 ?>
